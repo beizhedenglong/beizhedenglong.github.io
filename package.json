@@ -1,0 +1,11 @@
+{
+  "name": "beizhedenglong.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/beizhedenglong/beizhedenglong.github.io.git",
+  "author": "Victor Wang <wang_shaojie@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "cp -R dist/* ./"
+  }
+}
